@@ -1,6 +1,5 @@
 project(SHTTP)
 
-set(CMAKE_CXX_STANDARD 23)
 option(CROSSCHAT_BUILD_STATIC "Build SHTTP as static executable" OFF)
 
 add_executable(shttp main.cpp server.cpp)
