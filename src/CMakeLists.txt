@@ -3,7 +3,7 @@ project(SHTTP)
 set(CMAKE_CXX_STANDARD 23)
 option(CROSSCHAT_BUILD_STATIC "Build SHTTP as static executable" OFF)
 
-add_executable(shttp main.cxx)
+add_executable(shttp main.cpp server.cpp)
 
 if (SHTTP_BUILD_STATIC)
     message("Linking statically. To link dynamically, in the root CMakeLists.txt set SHTTP_BUILD_STATIC to OFF")
