@@ -1,0 +1,9 @@
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/acceptor.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/connector.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/datagram_socket.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/exception.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/inet_address.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/inet6_address.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/result.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/socket.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/MinSizeRel/stream_socket.obj

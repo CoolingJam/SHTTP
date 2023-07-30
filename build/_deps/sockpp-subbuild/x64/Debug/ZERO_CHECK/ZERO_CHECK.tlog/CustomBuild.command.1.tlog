@@ -1,0 +1,10 @@
+^C:\USERS\MARCEL\DOCUMENTS\SHTTP\BUILD\_DEPS\SOCKPP-SUBBUILD\CMAKEFILES\51F956A10A812B9B898D73B7AE1D5DAB\GENERATE.STAMP.RULE
+setlocal
+C:\msys64\mingw64\bin\cmake.exe -SC:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-subbuild -BC:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-subbuild/sockpp-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

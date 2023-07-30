@@ -1,0 +1,9 @@
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/acceptor.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/connector.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/datagram_socket.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/exception.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/inet_address.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/inet6_address.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/result.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/socket.obj
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Debug/stream_socket.obj

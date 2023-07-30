@@ -1,0 +1,46 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"build/_deps/sockpp-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "sockpp::@b8ea79fa75a0ff04825a"
+		},
+		{
+			"id" : "sockpp-static::@b8ea79fa75a0ff04825a"
+		},
+		{
+			"id" : "sockpp-objs::@3f306ad3dbace6734284"
+		},
+		{
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "CMakePredefinedTargets"
+	},
+	"id" : "ALL_BUILD::@b8ea79fa75a0ff04825a",
+	"isGeneratorProvided" : true,
+	"name" : "ALL_BUILD",
+	"paths" : 
+	{
+		"build" : "_deps/sockpp-build",
+		"source" : "build/_deps/sockpp-src"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

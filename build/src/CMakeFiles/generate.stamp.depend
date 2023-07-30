@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Users/Marcel/Documents/SHTTP/build/CMakeFiles/3.26.4/CMakeCCompiler.cmake
+C:/Users/Marcel/Documents/SHTTP/src/CMakeLists.txt
+C:/msys64/mingw64/share/cmake/Modules/CMakeCInformation.cmake
+C:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake
+C:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake
+C:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC-C.cmake
+C:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC.cmake
+C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-MSVC-C.cmake
+C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-MSVC.cmake

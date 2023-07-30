@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\9e3adabe807a8ad98771aa62883375ab\sockpp-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\bcd0b836e24bf8c62793b5943fa594fb\sockpp-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\51f956a10a812b9b898d73b7ae1d5dab\sockpp-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Marcel\Documents\SHTTP\build\_deps\sockpp-subbuild\CMakeFiles\sockpp-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8C590AC9-F7B7-3998-967D-CBDB250CED48}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

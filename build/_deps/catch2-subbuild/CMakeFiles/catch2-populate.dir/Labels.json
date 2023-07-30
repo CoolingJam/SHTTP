@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/b77bf735256adc8c61b25e2c342513c6/catch2-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/6f838712ccef5a85c7a2b2f093a074b7/catch2-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Marcel/Documents/SHTTP/build/_deps/catch2-subbuild/CMakeFiles/2033dde8a197d606779560195d70969a/catch2-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"catch2-populate"
+		],
+		"name" : "catch2-populate"
+	}
+}

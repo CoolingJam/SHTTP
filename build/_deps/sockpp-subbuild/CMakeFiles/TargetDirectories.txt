@@ -1,0 +1,3 @@
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-subbuild/CMakeFiles/sockpp-populate.dir
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-subbuild/CMakeFiles/ZERO_CHECK.dir
