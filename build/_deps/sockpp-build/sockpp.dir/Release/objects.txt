@@ -1,9 +1,0 @@
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/acceptor.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/connector.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/datagram_socket.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/exception.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/inet_address.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/inet6_address.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/result.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/socket.obj
-C:/Users/Marcel/Documents/SHTTP/build/_deps/sockpp-build/src/sockpp-objs.dir/Release/stream_socket.obj
