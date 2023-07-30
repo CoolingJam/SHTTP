@@ -7,7 +7,7 @@ int main() {
     server.Serve("./www/");
     server.Listen(8080);
     if (config::load_config() == -1) {
-        std::cerr << "config.toml does not exist!\n";
+        std::cerr << "config.toml does not exist!\n. please put it where the binary is located.";
         return -1;
     }
 
