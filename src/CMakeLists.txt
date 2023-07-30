@@ -14,4 +14,4 @@ else()
     target_link_libraries(shttp PRIVATE sockpp)  # Link to sockpp_static
 endif()
 
-target_include_directories(shttp PRIVATE ${sockpp_SOURCE_DIR}/include ./)
+target_include_directories(shttp PRIVATE ${sockpp_SOURCE_DIR}/include ${toml11_SOURCE_DIR} ./)
