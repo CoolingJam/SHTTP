@@ -80,7 +80,10 @@
                 "xloctime": "cpp",
                 "xtree": "cpp",
                 "list": "cpp",
-                "xhash": "cpp"
+                "xhash": "cpp",
+                "codecvt": "cpp",
+                "span": "cpp",
+                "variant": "cpp"
         },
         "C_Cpp.default.compilerPath": "cl.exe"
 }

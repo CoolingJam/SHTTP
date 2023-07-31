@@ -1,4 +1,5 @@
 #include <string>
+#include <stdint.h>
 
 #define BUFFER_SIZE 4096
 
