@@ -4,14 +4,12 @@
 
 int main() {
     HTTPServer server;
-    server.Serve("./www/");
-    server.Listen(8080);
-    if (config::load_config() == -1) {
+    Config config;
+    if (config.load_config() == 1) {
         std::cerr << "config.toml does not exist!\n. please put it where the binary is located.";
-        return -1;
+        return 1;
     }
-
-    std::cout << "Port: " << config::port << "\n";
-
+    server.Serve("./www/");
+    server.Listen(config.port);
     return 0;
 }
