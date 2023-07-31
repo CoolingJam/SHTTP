@@ -81,5 +81,6 @@
                 "xtree": "cpp",
                 "list": "cpp",
                 "xhash": "cpp"
-        }
+        },
+        "C_Cpp.default.compilerPath": "cl.exe"
 }
