@@ -72,6 +72,9 @@ void HandleRequest(sockpp::tcp_socket sock, std::string path) {
     while((n = sock.read(buf, sizeof(buf))) > 0) {
         std::cout << "Responding...\n";
         Request request = ParseRequest(std::string(buf, n));
+        if (request.path == "/") {
+            request.path = "/index.html";
+        }
         std::ifstream file(path + request.path);
         std::string statusCode = "200";
         std::string statusText = "OK";
@@ -91,8 +94,7 @@ void HandleRequest(sockpp::tcp_socket sock, std::string path) {
         response.protocol = "HTTP/1.1";
         response.statusCode = statusCode;
         response.statusText = statusText;
-        response.headers["Content-Type"] = "text/plain";
-        response.headers["Content-Length"] = fileText.size();
+        response.headers["X-Powered-By"] = "SHTTP";
         response.content = fileText;
 
         sock.write(ConstructResponse(response));
@@ -114,5 +116,5 @@ void HTTPServer::Listen(int16_t port) {
         if (!sock) continue;
         std::thread thr(HandleRequest, std::move(sock), m_path);
         thr.detach();
-    }
+    }   
 }
