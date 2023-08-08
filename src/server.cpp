@@ -70,7 +70,6 @@ void HandleRequest(sockpp::tcp_socket sock, std::string path) {
     char buf[BUFFER_SIZE];
     ssize_t n;
     while((n = sock.read(buf, sizeof(buf))) > 0) {
-        std::cout << "Responding...\n";
         Request request = ParseRequest(std::string(buf, n));
         if (request.path == "/") {
             request.path = "/index.html";
@@ -110,9 +109,9 @@ void HTTPServer::Listen(int16_t port) {
     sockpp::initialize();
     sockpp::tcp_acceptor acc(port);
     if (!acc) throw std::runtime_error("TCP Acceptor can not be created");
+    std::cout << "Listening on port " << port << "\n";
     while (m_running) {
         sockpp::tcp_socket sock = acc.accept();
-        std::cout << "Sock accepted...\n";
         if (!sock) continue;
         std::thread thr(HandleRequest, std::move(sock), m_path);
         thr.detach();

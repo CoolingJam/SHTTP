@@ -1,7 +1,9 @@
 #include <stdint.h>
+#include <string>
 
 struct Config {
     uint16_t port;
+    std::string serve;
 
     /**
      * Try to load config

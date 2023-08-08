@@ -9,7 +9,7 @@ int main() {
         std::cerr << "config.toml does not exist!\n. please put it where the binary is located.";
         return 1;
     }
-    server.Serve("./www/");
+    server.Serve(config.serve);
     server.Listen(config.port);
     return 0;
 }
