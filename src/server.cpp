@@ -86,7 +86,15 @@ void HandleRequest(sockpp::tcp_socket sock, std::string path) {
         } else {
             statusCode = "404";
             statusText = "Not Found";
-            fileText = "404 Not Found";
+            file = std::ifstream(path + "/404.html");
+            if (file.is_open()) {
+                std::stringstream buffer;
+                buffer << file.rdbuf();
+                fileText = buffer.str();
+                file.close();
+            } else {
+                fileText = "404 Not Found";
+            }
         }
 
         Response response;
